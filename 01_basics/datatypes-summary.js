@@ -22,3 +22,7 @@ const myfunc = function(){
 
 console.log(typeof bigNumber);
 console.log(typeof myfunc);
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive)--> gives copy, Heap (Non-primitive)--> gives reference
